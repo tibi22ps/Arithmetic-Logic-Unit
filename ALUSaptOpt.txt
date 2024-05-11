@@ -1,0 +1,6 @@
+- full adder
+- ripple carry adder
+- ripple borrow subtractor
+- ROM memory
+- Control Unit (Muxul care va alege ce operatie se va executa)
+- SSD

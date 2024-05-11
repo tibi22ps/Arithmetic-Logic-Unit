@@ -1,0 +1,7 @@
+-implementare algoritm inmultire
+-testare sumator complet 1 bit
+-testare ripple carry adder
+-testare ripple borrow subtractor
+-testare inmultitor 16b
+-testare inmultitor 32b
+-testare memorie rom

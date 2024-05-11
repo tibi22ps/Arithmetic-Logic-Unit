@@ -1,0 +1,26 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto 119b3732634f44bdb3968e95a121f080 --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot ALU_tb_behav xil_defaultlib.ALU_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-1625] value in initialization depends on signal romaddr1 [D:/SSC/Proiect_SSC_ALU/Proiect_SSC_ALU.srcs/sources_1/new/ALU.vhd:50]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling package ieee.numeric_std
+Compiling architecture behavioral of entity xil_defaultlib.RomMemory [rommemory_default]
+Compiling architecture behavioral of entity xil_defaultlib.FullAdder [fulladder_default]
+Compiling architecture behavioral of entity xil_defaultlib.RippleCarryAdder [ripplecarryadder_default]
+Compiling architecture behavioral of entity xil_defaultlib.RippleCarrySubtractor [ripplecarrysubtractor_default]
+Compiling architecture behavioral of entity xil_defaultlib.Inmultire [inmultire_default]
+Compiling architecture behavioral of entity xil_defaultlib.Inmultitor32b [inmultitor32b_default]
+Compiling architecture behavioral of entity xil_defaultlib.ControlUnit [controlunit_default]
+Compiling architecture behavioral of entity xil_defaultlib.ALU [alu_default]
+Compiling architecture behavioral of entity xil_defaultlib.alu_tb
+Built simulation snapshot ALU_tb_behav

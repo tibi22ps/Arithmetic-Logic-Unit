@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Wed Jan 10 02:38:57 2024
+# Process ID: 1436
+# Current directory: D:/SSC/Proiect_SSC_ALU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1932 D:\SSC\Proiect_SSC_ALU\Proiect_SSC_ALU.xpr
+# Log file: D:/SSC/Proiect_SSC_ALU/vivado.log
+# Journal file: D:/SSC/Proiect_SSC_ALU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/SSC/Proiect_SSC_ALU/Proiect_SSC_ALU.xpr

@@ -1,0 +1,4 @@
+-Control Unit
+-Algoritm de impartire
+-Algoritm de inmultire
+-Memorie ROM
